@@ -6,8 +6,8 @@ function MainContent(): JSX.Element {
     country: "Malaysia",
   };
 
-  const numOne = 3;
-  const numTwo = 6;
+  const numOne = 12;
+  const numTwo = 4;
 
   const threeFavouriteFoods = ["Chocolate", "Noodles", "Pizza"];
 
